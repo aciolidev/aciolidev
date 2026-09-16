@@ -58,7 +58,7 @@
   align="left"
   alt="GameMaker"
   title="GameMaker"
-  width=30px"
+  width="30px"
   style="padding-right: 10px;"
   src="https://cdn.simpleicons.org/gamemaker/white"
 />
