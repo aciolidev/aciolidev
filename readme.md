@@ -9,7 +9,7 @@
 
 # &nbsp;
 
-<img align="right" alt="" height="200px" style="border-radius: 28px" src="./src/_.gif">
+<img align="right" alt="" height="170px" style="border-radius: 28px" src="./src/_.gif">
 
 <h3 align="left">Connect with me!</h3>
 
@@ -71,7 +71,7 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-<br clear="both">
+<p clear="both"></p>
 
 # &nbsp;
 
