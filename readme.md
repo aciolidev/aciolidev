@@ -4,11 +4,11 @@
   </a>
 </div>
 
-# &nbsp;
+# 
 
 <p align="justify">Me chamo Lívia Angélica de Souza Acioli, tenho 23 anos e sou natural de Recife, Pernambuco. Sou estudante de Análise e Desenvolvimento de Sistemas na CESAR School e estou construindo minha trajetória na área de tecnologia com foco em desenvolvimento Java e Full Stack. Nas horas vagas, gosto de me aventurar no desenvolvimento de jogos, criando pixel art e desenvolvendo projetos na engine GameMaker.</p>
 
-# &nbsp;
+#
 
 <img align="right" alt="" height="190px" style="border-radius: 28px" src="./src/_.gif">
 
@@ -16,6 +16,7 @@
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:liviaacioli.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/liviaacioli/)
+
 
 <h3 align="left">My Stack </h3>
 
