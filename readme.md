@@ -4,10 +4,10 @@
   </a>
 </div>
 
-#
-<p align ="justify"> Me chamo Lívia Angélica de Souza Acioli, tenho 23 anos e sou natural de Recife, Pernambuco. Sou estudante de Análise e Desenvolvimento de Sistemas na CESAR School e estou construindo minha trajetória na área de tecnologia com foco em desenvolvimento Java e Full Stack. Nas horas vagas, gosto de me aventurar no desenvolvimento de jogos, criando pixel art e desenvolvendo projetos na engine GameMaker.</p>
+# 
+<p align="justify">Me chamo Lívia Angélica de Souza Acioli, tenho 23 anos e sou natural de Recife, Pernambuco. Sou estudante de Análise e Desenvolvimento de Sistemas na CESAR School e estou construindo minha trajetória na área de tecnologia com foco em desenvolvimento Java e Full Stack. Nas horas vagas, gosto de me aventurar no desenvolvimento de jogos, criando pixel art e desenvolvendo projetos na engine GameMaker.</p>
 
-#
+# &nbsp;
 
 <img align="right" alt="" height="200px" style="border-radius: 28px" src="./src/_.gif">
 
@@ -71,10 +71,9 @@
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 
-
-<br>
-<br>
 <br clear="both">
+
+# &nbsp;
 
 <h3 align="left">GitHub Stats</h3>
 
@@ -87,12 +86,10 @@
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=aciolidev&show_icons=true&locale=pt-br&commits_year=2026&hide=contribs&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff&custom_title=My%20GitHub%20Statistics"
   />
 
-<img 
+  <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=aciolidev&layout=compact&custom_title=Stack&langs_count=8&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
   />
-
 </p>
-
