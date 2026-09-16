@@ -9,7 +9,7 @@
 
 # &nbsp;
 
-<img align="right" alt="" height="170px" style="border-radius: 28px" src="./src/_.gif">
+<img align="right" alt="" height="200px" style="border-radius: 28px" src="./src/_.gif">
 
 <h3 align="left">Connect with me!</h3>
 
