@@ -4,13 +4,11 @@
   </a>
 </div>
 
-<hr style="height: 1px; margin: 0;">
+##### &nbsp;
 
-<div align="justify">
-Me chamo Lívia Angélica de Souza Acioli, tenho 23 anos e sou natural de Recife, Pernambuco. Sou estudante de Análise e Desenvolvimento de Sistemas na CESAR School e estou construindo minha trajetória na área de tecnologia com foco em desenvolvimento Java e Full Stack. Nas horas vagas, gosto de me aventurar no desenvolvimento de jogos, criando pixel art e desenvolvendo projetos na engine GameMaker.
-</div>
+<p align="justify">Me chamo Lívia Angélica de Souza Acioli, tenho 23 anos e sou natural de Recife, Pernambuco. Sou estudante de Análise e Desenvolvimento de Sistemas na CESAR School e estou construindo minha trajetória na área de tecnologia com foco em desenvolvimento Java e Full Stack. Nas horas vagas, gosto de me aventurar no desenvolvimento de jogos, criando pixel art e desenvolvendo projetos na engine GameMaker.</p>
 
-<hr style="height: 1px; margin: 0;">
+##### &nbsp;
 
 <img align="right" alt="" height="190px" style="border-radius: 28px" src="./src/_.gif">
 
