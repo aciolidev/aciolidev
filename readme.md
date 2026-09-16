@@ -75,7 +75,6 @@
 <br>
 <br>
 <br clear="both">
-<hr>
 
 <h3 align="left">GitHub Stats</h3>
 
