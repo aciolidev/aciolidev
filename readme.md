@@ -65,21 +65,23 @@
 
 <img
     <img
-  align="left"
-  alt="Github"
-  title="Github"
-  width="30px"
-  style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+ <img
+    align="left"
+    alt="Github"
+    title="Github"
+    width="30px"
+    style="padding-right: 10px; filter: brightness(0) invert(1);"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
 />
 
 <img 
-    align="left" 
-    alt="Git" 
+    <img
+    align="left"
+    alt="Git"
     title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"
 />
 
 <div style="clear: both;"></div>
