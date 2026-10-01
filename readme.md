@@ -63,8 +63,6 @@
   src="https://cdn.simpleicons.org/gamemaker/white"
 />
 
-<img
-    <img
  <img
     align="left"
     alt="Github"
@@ -75,7 +73,6 @@
 />
 
 <img 
-    <img
     align="left"
     alt="Git"
     title="Git"
