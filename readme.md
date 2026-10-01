@@ -93,7 +93,7 @@
     alt="Github"
     title="Github"
     width="30px"
-    src="https://cdn.simpleicons.org/github/white"
+    src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png"
 />
 
   <img 
