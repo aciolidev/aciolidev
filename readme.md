@@ -87,29 +87,18 @@
 
 <h3 align="left">GitHub Stats</h3>
 
-<p>
+<div align="center">
   <img
-    align="left"
-    alt="Github"
-    title="Github"
-    width="30px"
-    src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png"
-/>
-
-   <img
-    align="left"
     alt="GitHub Stats"
-    height="200"
+    height="165"
     src="https://github-readme-stats-two-omega-43.vercel.app/api?username=aciolidev&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600&bg_color=000000&title_color=CBA6F7&text_color=ffffff&icon_color=CBA6F7&border_color=CBA6F7&ring_color=CBA6F7"
   />
   <img
-    align="left"
     alt="Top Languages"
-    height="200"
-    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=aciolidev&layout=compact&custom_title=Stack&langs_count=8&cache_seconds=21600&bg_color=000000&title_color=CBA6F7&text_color=ffffff&icon_color=CBA6F7&border_color=CBA6F7&ring_color=CBA6F7"
+    height="165"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=aciolidev&layout=compact&custom_title=Stack&langs_count=8&card_width=340&cache_seconds=21600&bg_color=000000&title_color=CBA6F7&text_color=ffffff&icon_color=CBA6F7&border_color=CBA6F7&ring_color=CBA6F7"
   />
-  
-</p>
+</div>
 
 <div style="clear: both;"></div>
 
