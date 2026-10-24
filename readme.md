@@ -96,12 +96,19 @@
     src="https://img.icons8.com/ios-glyphs/60/ffffff/github.png"
 />
 
-  <img 
-      align="left" 
-      alt="Top Languages" 
-      height="200" 
-      src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=aciolidev&layout=compact&custom_title=Stack&langs_count=8&cache_seconds=21600&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&ring_color=ffffff" 
+   <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api?username=aciolidev&show_icons=true&include_all_commits=true&count_private=true&cache_seconds=21600&bg_color=000000&title_color=CBA6F7&text_color=ffffff&icon_color=CBA6F7&border_color=CBA6F7&ring_color=CBA6F7"
   />
+  <img
+    align="left"
+    alt="Top Languages"
+    height="200"
+    src="https://github-readme-stats-two-omega-43.vercel.app/api/top-langs/?username=aciolidev&layout=compact&custom_title=Stack&langs_count=8&cache_seconds=21600&bg_color=000000&title_color=CBA6F7&text_color=ffffff&icon_color=CBA6F7&border_color=CBA6F7&ring_color=CBA6F7"
+  />
+  
 </p>
 
 <div style="clear: both;"></div>
