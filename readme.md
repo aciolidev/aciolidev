@@ -6,7 +6,7 @@
 
 # 
 
-<p align="justify">My name is Lívia Angélica de Souza Acioli. I'm 23 years old and I'm from Recife, Pernambuco, Brazil. I'm a Systems Analysis and Development student at CESAR School, building my career in tech with a focus on Java and Full Stack development. In my free time, I enjoy exploring game development, creating pixel art and building projects with the GameMaker engine.</p>
+<p align="justify">My name is Lívia Angélica de Souza Acioli. I'm 24 years old and I'm from Recife, Pernambuco, Brazil. I'm a Systems Analysis and Development student at CESAR School, building my career in tech with a focus on Java and Full Stack development. In my free time, I enjoy exploring game development, creating pixel art and building projects with the GameMaker engine.</p>
 
 #
 
